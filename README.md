@@ -1,2 +1,2 @@
-# Trixor-Spriter-library-jar
-i took trixors spriter library and created a jar for easier implementation.
+# Trixt0r-Spriter-library-jar
+i took Trixt0r spriter library and created a jar for easier implementation.
